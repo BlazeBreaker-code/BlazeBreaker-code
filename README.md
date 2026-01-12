@@ -1,5 +1,8 @@
-Welcome to My Projects!
+Hi, I’m Suraj.
 
-Hi there! I'm Suraj Mohan, a passionate software engineer with a love for game development, AI, and cutting-edge technologies. This repository showcases the projects I'm working on, from my journey in game development with Unity and Unreal Engine to my latest explorations in AI and application development.
+I’m a Gameplay Systems Engineer focused on building systems players understand through interaction rather than UI.
 
-Feel free to explore, contribute, or even reach out if you want to collaborate or discuss any of the projects here!
+This GitHub contains prototypes and projects built in Unreal Engine and Unity, exploring control feel, player feedback, AI behavior, and interactive systems.
+
+For curated work and context, visit my portfolio:
+https://surajsportfolio.com
