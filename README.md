@@ -1,8 +1,7 @@
 Hi, I’m Suraj.
 
-I’m a Gameplay Systems Engineer focused on building systems players understand through interaction rather than UI.
+I’m a real-time systems engineer building interaction and simulation systems in C++ and C# using Unreal Engine and Unity.
 
-This GitHub contains prototypes and projects built in Unreal Engine and Unity, exploring control feel, player feedback, AI behavior, and interactive systems.
+This GitHub contains prototypes and projects exploring control systems, player feedback, AI behavior, and interactive simulation workflows.
 
-For curated work and context, visit my portfolio:
-https://surajsportfolio.com
+Portfolio: https://surajsportfolio.com
