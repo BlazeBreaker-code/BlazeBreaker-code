@@ -1,7 +1,9 @@
 Hi, I’m Suraj.
 
-I’m a real-time systems engineer building interaction and simulation systems in C++ and C# using Unreal Engine and Unity.
+I’m a real-time systems engineer focused on C++, performance optimization, and low-latency systems.
 
-This GitHub contains prototypes and projects exploring control systems, player feedback, AI behavior, and interactive simulation workflows.
+I build and benchmark performance-critical systems including lock-free data structures, multithreaded architectures, and real-time simulation pipelines.
+
+This repository contains projects exploring concurrency, memory behavior, system design, and high-performance engineering.
 
 Portfolio: https://surajsportfolio.com
