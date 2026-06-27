@@ -9,9 +9,13 @@ Portfolio: https://surajsportfolio.com
 ## Current Focus
 
 • AI inference performance and model serving systems
+
 • CUDA, GPU accelerated computing, and runtime optimization
+
 • Runtime validation, latency benchmarking, and CI performance gates
+
 • C++, Python, multithreading, memory, and systems performance
+
 • Linux, containers, CI/CD, observability, and automation
 
 ## Featured Projects
